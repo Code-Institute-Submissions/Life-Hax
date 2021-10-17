@@ -1,0 +1,420 @@
+/*320px — 480px: Mobile devices.*/
+@media only screen and (min-width: 320px) {
+
+  html {
+    font-family: "Lucida Sans", sans-serif;
+  }
+  
+  body {
+    background-color: #e6faff;
+  }
+  .header {
+    padding: 2px;
+    text-align: center;
+    background-color: #005B4B;
+  
+  }
+  .header h1 {
+    color:#ffffff;
+  }
+  
+  .header img {
+    position: absolute;
+    top: 11px;
+    left: 12px;
+    height: 2cm;
+    width: 2cm;
+  }
+  
+  .navbar {
+    overflow: hidden;
+    background-color: #ffffff;
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: #000000;
+    text-align: center;
+    padding: 14px 10px;
+    text-decoration: none;
+  }
+  
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: #000000;
+    padding: 1px 10px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #FFFFB3;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 133px;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 5px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #FFFFB3;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .body {
+    padding: 15px;
+    background-color:#005B4B;
+  }
+  
+  .body h2 {
+    color:#ffffff;
+  }
+  
+  .body h3 {
+    color:#ffffff;
+  }
+  
+  .body p {
+    color:#ffffff;
+  }
+  
+  .body img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  label {
+    color:#ffffff;
+  }
+  
+  input[type=text], input[type=email], select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 200px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  
+  input[type=submit] {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #FFFFB3;
+  }
+  
+  footer {
+    padding: 0%;
+    background: #000000;
+    color: #ffffff;
+  }
+  
+  .social_media {
+    text-align: center;
+  }
+  
+  .fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 25%;
+  }
+  
+  .fa:hover {
+    background-color: #FFFFB3;
+  }
+  
+  .fa-facebook {
+    background: #ffffff;
+    color: #000000;
+  }
+  
+  .fa-twitter {
+    background: #ffffff;
+    color: #000000;
+  }
+  
+  .fa-instagram {
+    background: #ffffff;
+    color: #000000;
+  }
+  
+  .fa-youtube {
+    background: #ffffff;
+    color: #000000;
+  }
+  
+  .address_contact {
+    padding: 5px;
+    
+  }
+  
+  .address {
+    float: left;
+    font-size: 10px;
+  }
+  
+  .contact_info {
+    float: right;
+    font-size: 10px;
+  }
+  
+  .copyright {
+    font-size: 10px;
+    text-align: center;
+  }
+  
+  video{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+}
+
+/*481px — 768px: iPads, Tablets.*/
+@media only screen and (min-width: 481px) {
+  .header h1 {
+    font-size: 50px;
+  }
+
+  .header img {
+    height: 3cm;
+    width: 3cm;
+  }
+
+  .navbar a {
+    font-size: 25px;
+    padding: 14px 13.8px;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 25px;  
+    padding: 1px 14px;
+  }
+
+  .dropdown-content {
+    min-width: 206px;
+  }
+  
+  .body h2 {
+    font-size: 35px;
+  }
+  
+  .body h3 {
+    font-size: 30px;
+  }
+
+  .body p {
+    font-size: 25px;
+  }
+  
+  label, input, textarea {
+    font-size: 25px;
+  }
+
+  .fa {
+    padding: 10px;
+    width: 30px;
+  }
+
+  .social_media {
+    font-size: 40px;
+  }
+  
+  .address_contact {
+    padding: 15px; 
+  }
+  
+  .address, .contact_info  {
+    font-size: 20px;
+  }
+  
+  .copyright {
+    font-size: 15px;
+    padding-top: 50px;
+  }
+
+}
+
+/*769px — 1024px: Small screens, laptops.*/
+@media only screen and (min-width: 769px) {
+  .header h1 {
+    font-size: 80px;
+  }
+
+  .header img {
+    height: 5cm;
+    width: 5cm;
+  }
+
+  .navbar a {
+    font-size: 35px;
+    padding: 14px 38px;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 35px;  
+    padding: 1px 38.5px;
+  }
+
+  .dropdown-content {
+    min-width: 316px;
+  }
+
+  .body h2 {
+    font-size: 45px;
+  }
+  
+  .body h3 {
+    font-size: 40px;
+  }
+
+  .body p {
+    font-size: 35px;
+  }
+
+  label, input, textarea {
+    font-size: 35px;
+  }
+
+  .fa {
+    padding: 10px;
+    width: 40px;
+  }
+
+  .social_media {
+    font-size: 50px;
+  }
+  
+  .address_contact {
+    padding: 15px; 
+  }
+  
+  .address, .contact_info  {
+    font-size: 30px;
+  }
+  
+  .copyright {
+    font-size: 20px;
+    padding-top: 120px;
+  }
+
+}
+
+/*1025px — 1200px: Desktops, large screens.*/
+@media only screen and (min-width: 1025px) {
+  .header h1 {
+    font-size: 100px;
+  }
+
+  .header img {
+    height: 6cm;
+    width: 6cm;
+  }
+
+  .navbar a {
+    font-size: 40px;
+    padding: 14px 70px;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 40px;  
+    padding: 1px 70px;
+  }
+
+  .dropdown-content {
+    min-width: 403px;
+  }
+
+  .body img {
+    max-width: 70%;
+    margin-left: 160px;
+  }
+    
+}
+
+/*1201px and more — Extra large screens, TV.*/
+@media only screen and (min-width: 1201px) {
+  body {
+    margin-top: 0%;
+    margin-left: 18%;
+    margin-right: 18%;
+  }
+
+  .header h1 {
+    font-size: 90px;
+  }
+
+  .header img {
+    height: 5cm;
+    width: 5cm;
+    left: 19%;
+  }
+
+  .navbar a {
+    font-size: 40px;
+    padding: 14px 30px;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 40px;  
+    padding: 1px 30px;
+  }
+
+  .dropdown-content {
+    min-width: 322px;
+  }
+
+  .body img {
+    max-width: 70%;
+    margin-left: 15%;
+  }
+
+}
