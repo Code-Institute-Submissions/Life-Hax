@@ -1,86 +1,107 @@
 <!DOCTYPE html>
 <html lang="en-US">
-    <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Life Hax</title>
-      <link href="../stylesheets/style.css" rel="stylesheet" type="text/css"/>
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    </head>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A site where you can find life hacks to help you get through your day">
+    <meta name="keywords" content="Life Hax, Life hacks, Life hacks collection, Life hacks upload">
+
+    <title>Life Hax</title>
+    <link href="../css/style.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Roboto+Slab:wght@300&family=Roboto:ital,wght@1,900&display=swap" rel="stylesheet">
+  </head>
     
     <body>
-      <div class="header">
-        <img src="../media/images/logo.svg" alt="Smiley face logo" title="smiley face logo">
-        <h1>Life Hax</h1>
+      <header>
+        <div>
+          <a href="index.html">
+            <img src="../assets/images/logo.svg" alt="Smiley face logo" title="Smiley face logo">
+          </a>
       </div>
+      <divL>
+        <a href="index.html">
+          <h1>Life Hax</h1>
+        </a>
+      </div> 
+      </header>
 
-      <div class="navbar">
-        <a href="../index.html">Home</a>
-        <a href="../pages/upload.html">Upload Area</a>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="pages/upload.html">Upload Area</a>
         <div class="dropdown">
           <button class="dropbtn">Life Hacks
-            <i class="fa fa-caret-down"></i>
           </button>
           <div class="dropdown-content">
-            <a href="../pages/life_hax.html">Food Hacks</a>
-            <a href="../pages/life_hax.html#home_hacks">Home Hacks</a>
-            <a href="../pages/life_hax.html#office_hacks">Office Hacks</a>
+            <a href="pages/life_hax.html">Food Hacks</a>
+            <a href="pages/life_hax.html#home_hacks">Home Hacks</a>
+            <a href="pages/life_hax.html#office_hacks">Office Hacks</a>
           </div>
         </div>
-      </div>
+      </nav>
        
-      <div class="body">
-        <h2>Upload Area</h2>
-        <p>
-          Here is where you can upload your very own life hacks. 
-          Before you submit it, make sure it belongs in one of the following categories: 
-          <strong>Food,</strong> <strong>Home,</strong> or <strong>Office</strong> for it to be allowed on our website.
-        </p>
-    
-    
-        <form id="upload_form" action="../confirmation_pages/confirmation_page_2.html" method="get">
-          <div>
-            <label for="name-field">Name</label>
-            <input id="name-field" type="text" name="full_name" placeholder="Your name" required/>
-          </div>
-          <div>
-            <label for="email-field">Email</label>
-            <input id="email-field" type="email" name="email" placeholder="Your email" required/>
+      <main>
+        <section>
+          <div id="upload-area1">
+            <h2>Upload Area</h2>
+            <p>
+              Here is where you can upload your very own life hacks. 
+              Before you submit it, make sure it belongs in one of the following categories: 
+              <strong>Food,</strong> <strong>Home,</strong> or <strong>Office</strong> for it to be allowed on our website.
+            </p>
           </div>
           
-          <div>
-            <label for="hack-field">Hack</label>
-            <input id="hack-field" type="text" name="hack_name" placeholder="Your hack" required/>
+          <div id="upload-area2">
+            <form id="upload_form" action="../confirmation_pages/confirmation_page_2.html" method="get">
+              <div>
+                <label for="name-field">Name</label>
+                <input id="name-field" type="text" name="full_name" placeholder="Your name" required/>
+              </div>
+              <div>
+                <label for="email-field">Email</label>
+                <input id="email-field" type="email" name="email" placeholder="Your email" required/>
+              </div>
+          
+              <div>
+                <label for="hack-field">Hack</label>
+                <input id="hack-field" type="text" name="hack_name" placeholder="Your hack" required/>
+              </div>
+              <input type="file" id="myfile" name="filename" required> 
+              <div id="submit-button">
+                <input type="submit" value="Submit"/>
+              </div>
           </div>
-          <input type="file" id="myfile" name="filename" required> 
-          <br><br>
-          <input type="submit" value="submit"/>
-        </form>
-      </div>
+            </form>
+        </section>
+      </main>
       
       <footer>
-        <div class="social_media">
-          <a href="#" class="fa fa-facebook" title="facebook link"></a>
-          <a href="#" class="fa fa-twitter" title="twitter link"></a>
-          <a href="#" class="fa fa-instagram" title="instagram link"></a>
-          <a href="#" class="fa fa-youtube" title="youtube link"></a>
-        </div>
-          
-        <div class="address_contact">
-          <div class="address">
-            <p> 1 address</p>
-            <p> Main Street</p>
-            <p>Somewhere</p>
-          </div>
-          <div class="contact_info">
-            <p>Phone/Text: 026081234567</p>
-            <p>Email: lifehax@mail.com</p>
-          </div>
-        </div>
-        <br><br><br><br>
+        <ul class="social-media">
+          <li>
+            <a href="https://www.facebook.com/" target="_blank" rel="noopener" 
+            aria-label="visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook-square"></i></a>
+          </li>
+          <li>
+            <a href="https://twitter.com/" target="_blank" rel="noopener" 
+            aria-label="visit our Twitter page (opens in a new tab)"><i class="fab fa-twitter-square"></i></i></a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/" target="_blank" rel="noopener" 
+            aria-label="visit our YouTube page (opens in a new tab)"><i class="fab fa-youtube-square"></i></a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/" target="_blank" rel="noopener" 
+            aria-label="visit our Instagram page (opens in a new tab)"><i class="fab fa-instagram-square"></i></a>
+          </li>
+        </ul>
+        
         <div class="copyright">
           <p>copyright 2021 &copy; Life Hax</p>
         </div>
       </footer>
+
+      <script src="https://kit.fontawesome.com/45f2ada809.js" crossorigin="anonymous"></script>
     </body>
 </html>
