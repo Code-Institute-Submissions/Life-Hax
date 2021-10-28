@@ -1,45 +1,57 @@
 /*320px — 480px: Mobile devices.*/
 @media only screen and (min-width: 320px) {
 
-  html {
-    font-family: "Lucida Sans", sans-serif;
+  * {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
   }
   
   body {
     background-color: #e6faff;
   }
-  .header {
-    padding: 2px;
+
+  header {
+    padding: 22px;
     text-align: center;
     background-color: #005B4B;
-  
   }
-  .header h1 {
-    color:#ffffff;
+
+  header a {
+    text-decoration: none;
   }
-  
-  .header img {
+
+  header img {
     position: absolute;
     top: 11px;
     left: 12px;
     height: 2cm;
     width: 2cm;
   }
-  
-  .navbar {
+
+  h1 {
+    color:#ffffff;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 20%;
+    font-size: 45px;
+  }
+
+  nav {
     overflow: hidden;
     background-color: #ffffff;
+    font-family: 'Roboto Condensed', sans-serif;
   }
-  
-  .navbar a {
+
+  nav a {
     float: left;
     font-size: 16px;
     color: #000000;
     text-align: center;
-    padding: 14px 10px;
+    padding: 15px 26.7px;
     text-decoration: none;
   }
-  
+
   .dropdown {
     float: left;
     overflow: hidden;
@@ -50,13 +62,13 @@
     border: none;
     outline: none;
     color: #000000;
-    padding: 1px 10px;
+    padding: 15px 36px;
     background-color: inherit;
     font-family: inherit;
     margin: 0;
   }
   
-  .navbar a:hover, .dropdown:hover .dropbtn {
+  nav a:hover, .dropdown:hover .dropbtn {
     background-color: #FFFFB3;
   }
   
@@ -64,7 +76,7 @@
     display: none;
     position: absolute;
     background-color: #f9f9f9;
-    min-width: 133px;
+    min-width: 139px;
     z-index: 1;
   }
   
@@ -84,31 +96,71 @@
   .dropdown:hover .dropdown-content {
     display: block;
   }
-  
-  .body {
+
+  main {
     padding: 15px;
     background-color:#005B4B;
   }
-  
-  .body h2 {
-    color:#ffffff;
+ 
+  h2, h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #ffffff;
+  }
+
+  p{
+    font-family: 'Roboto Slab', serif;
+    color: #ffffff;
   }
   
-  .body h3 {
-    color:#ffffff;
-  }
-  
-  .body p {
-    color:#ffffff;
-  }
-  
-  .body img {
+  section img {
     max-width: 100%;
     height: auto;
+  
+  }
+
+  .welcome, .about {
+    padding-bottom: 20px;
+  }
+
+  .circle-container{
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+  }
+
+  #welcome-bg {
+    background: url('..//assets/images/welcome.jpg') no-repeat center center;
+    background-size: 400px;
+    height: 260px;
+    width: 260px;
+    border-radius: 50%;
+    margin-top: 3%;
+    margin-left: 3%;
+  }
+
+  #about-bg {
+    background: url('..//assets/images/about.jpeg') no-repeat center center;
+    background-size: 400px;
+    height: 260px;
+    width: 260px;
+    border-radius: 50%;
+    margin-top: 3%;
+    margin-left: 3%;
+  }
+
+
+  #contact-form {
+    padding-top: 10px;
   }
   
   label {
     color:#ffffff;
+    font-family: 'Roboto Condensed', sans-serif;
   }
   
   input[type=text], input[type=email], select {
@@ -119,6 +171,7 @@
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
+    font-family: 'Roboto Slab', serif;
   }
   
   textarea {
@@ -130,8 +183,8 @@
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
+    font-family: 'Roboto Slab', serif;
   }
-  
   
   input[type=submit] {
     background-color: #ffffff;
@@ -139,6 +192,7 @@
     padding: 12px 20px;
     border: none;
     cursor: pointer;
+    font-family: 'Roboto Condensed', sans-serif;
   }
   
   input[type=submit]:hover {
@@ -151,57 +205,19 @@
     color: #ffffff;
   }
   
-  .social_media {
+  .social-media {
     text-align: center;
   }
-  
-  .fa {
-    padding: 10px;
-    font-size: 30px;
-    width: 10px;
-    text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;
-    border-radius: 25%;
+
+  .social-media > li {
+    display: inline;
   }
-  
-  .fa:hover {
-    background-color: #FFFFB3;
-  }
-  
-  .fa-facebook {
-    background: #ffffff;
-    color: #000000;
-  }
-  
-  .fa-twitter {
-    background: #ffffff;
-    color: #000000;
-  }
-  
-  .fa-instagram {
-    background: #ffffff;
-    color: #000000;
-  }
-  
-  .fa-youtube {
-    background: #ffffff;
-    color: #000000;
-  }
-  
-  .address_contact {
-    padding: 5px;
-    
-  }
-  
-  .address {
-    float: left;
-    font-size: 10px;
-  }
-  
-  .contact_info {
-    float: right;
-    font-size: 10px;
+
+  .social-media i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #ffffff;
   }
   
   .copyright {
