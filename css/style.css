@@ -7,8 +7,14 @@
     border: none;
     box-sizing: border-box;
   }
-  
+
+  html {
+    height: 100%;
+    background-color: #e6faff;
+  }
+
   body {
+    height: 100%;
     background-color: #e6faff;
   }
 
@@ -100,6 +106,8 @@
   main {
     padding: 15px;
     background-color:#005B4B;
+    min-height: 59.3%;
+    box-sizing: border-box;
   }
  
   h2, h3 {
@@ -204,6 +212,7 @@
     padding: 0%;
     background: #000000;
     color: #ffffff;
+
   }
   
   .social-media {
@@ -240,7 +249,7 @@
 
   iframe {
     height: 163px;
-    width: 300px;
+    width: 100%;
     margin-top: 15px;
     margin-bottom: 20px;
   }
