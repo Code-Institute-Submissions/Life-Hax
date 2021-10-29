@@ -248,7 +248,7 @@
   }
 
   iframe {
-    height: 163px;
+    height: 200px;
     width: 100%;
     margin-top: 15px;
     margin-bottom: 20px;
@@ -471,6 +471,16 @@
     margin-top: 0%;
     margin-left: 10%;
     margin-right: 10%;
+  }
+
+  .contact-section {
+    padding-top: 85%;
+  }
+
+  iframe {
+    height: 600px;
+    padding-left: 25%;
+    padding-right: 25%;
   }
 
 }
