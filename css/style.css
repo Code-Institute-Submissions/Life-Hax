@@ -21,7 +21,7 @@
   header {
     padding: 22px;
     text-align: center;
-    background-color: #005B4B;
+    background-color: #005b4b;
   }
 
   header a {
@@ -75,13 +75,13 @@
   }
   
   nav a:hover, .dropdown:hover .dropbtn {
-    background-color: #FFFFB3;
+    background-color: #ffffb3;
   }
   
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: #ffffff;
     min-width: 129.5px;
     z-index: 1;
   }
@@ -96,7 +96,7 @@
   }
   
   .dropdown-content a:hover {
-    background-color: #FFFFB3;
+    background-color: #ffffb3;
   }
   
   .dropdown:hover .dropdown-content {
@@ -105,7 +105,7 @@
 
   main {
     padding: 15px;
-    background-color:#005B4B;
+    background-color:#005b4b;
     min-height: 59.3%;
     box-sizing: border-box;
   }
@@ -230,7 +230,7 @@
     color: #ffffff;
   }
   
-  .copyright {
+  .copyright p {
     font-size: 10px;
     text-align: center;
   }
@@ -266,38 +266,46 @@
 
 /*481px — 768px: iPads, Tablets.*/
 @media only screen and (min-width: 481px) {
-  .header h1 {
+  header {
+    padding: 40px;
+  }
+
+  h1 {
     font-size: 50px;
   }
 
-  .header img {
+  header img {
     height: 3cm;
     width: 3cm;
   }
 
-  .navbar a {
+  nav a {
     font-size: 25px;
-    padding: 14px 13.8px;
+    padding: 14px 33px;
   }
   
   .dropdown .dropbtn {
     font-size: 25px;  
-    padding: 1px 14px;
+    padding: 13px 33px;
   }
 
   .dropdown-content {
-    min-width: 206px;
+    min-width: 170px;
+  }
+
+  main {
+    min-height: 76.3%;
   }
   
-  .body h2 {
+  h2 {
     font-size: 35px;
   }
   
-  .body h3 {
+  h3 {
     font-size: 30px;
   }
 
-  .body p {
+  p {
     font-size: 25px;
   }
   
@@ -305,91 +313,82 @@
     font-size: 25px;
   }
 
-  .fa {
-    padding: 10px;
-    width: 30px;
+  iframe {
+    height: 325px;
+    padding-left: 10%;
+    padding-right: 10%;
   }
 
-  .social_media {
-    font-size: 40px;
+  .social-media i {
+    padding-bottom: 1%;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
   }
   
-  .address_contact {
-    padding: 15px; 
-  }
-  
-  .address, .contact_info  {
-    font-size: 20px;
-  }
-  
-  .copyright {
+  .copyright p {
     font-size: 15px;
-    padding-top: 50px;
   }
 
 }
 
 /*769px — 1024px: Small screens, laptops.*/
 @media only screen and (min-width: 769px) {
-  .header h1 {
-    font-size: 80px;
+  header {
+    padding-right: 15%;
   }
 
-  .header img {
-    height: 5cm;
-    width: 5cm;
-  }
-
-  .navbar a {
-    font-size: 35px;
-    padding: 14px 38px;
+  nav a {
+    padding: 14px 81px;
   }
   
   .dropdown .dropbtn {
-    font-size: 35px;  
-    padding: 1px 38.5px;
+    padding: 13px 81px;
   }
 
   .dropdown-content {
-    min-width: 316px;
+    min-width: 266.3px;
   }
 
-  .body h2 {
-    font-size: 45px;
+  main {
+    min-height: 74.8%;
+  }
+
+  .circle-container{
+    width: 400px;
+    height: 400px;
+  }
+
+  #welcome-bg {
+    background-size: 500px;
+    height: 330px;
+    width: 330px;
+    margin-top: 6%;
+    margin-left: 6%;
+  }
+
+  #about-bg {
+    background-size: 500px;
+    height: 330px;
+    width: 330px;
+    margin-top: 6%;
+    margin-left: 6%;
+  }
+
+  iframe {
+    height: 450px;
+    padding-left: 10%;
+    padding-right: 10%;
   }
   
-  .body h3 {
-    font-size: 40px;
+  .social-media i {
+    padding-bottom: 0.5%;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
   }
-
-  .body p {
-    font-size: 35px;
-  }
-
-  label, input, textarea {
-    font-size: 35px;
-  }
-
-  .fa {
-    padding: 10px;
-    width: 40px;
-  }
-
-  .social_media {
-    font-size: 50px;
-  }
-  
-  .address_contact {
-    padding: 15px; 
-  }
-  
-  .address, .contact_info  {
-    font-size: 30px;
-  }
-  
-  .copyright {
-    font-size: 20px;
-    padding-top: 120px;
+  .copyright p {
+    padding-top: 1%;
   }
 
 }
