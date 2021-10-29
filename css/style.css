@@ -395,71 +395,82 @@
 
 /*1025px — 1200px: Desktops, large screens.*/
 @media only screen and (min-width: 1025px) {
-  .header h1 {
-    font-size: 100px;
+  header {
+    padding-right: 20%;
   }
 
-  .header img {
-    height: 6cm;
-    width: 6cm;
+  h1 {
+    font-size: 60px;
   }
 
-  .navbar a {
-    font-size: 40px;
-    padding: 14px 70px;
-  }
-  
   .dropdown .dropbtn {
-    font-size: 40px;  
-    padding: 1px 70px;
+    padding: 13px 80px;
   }
 
-  .dropdown-content {
-    min-width: 403px;
+  .welcome-section {
+    float: left; 
+    width: 50%;
   }
 
-  .body img {
-    max-width: 70%;
-    margin-left: 160px;
+  .welcome{
+    padding-bottom: 8%;
+    padding-left: 5%;
+    padding-right: 5%;
   }
-    
+
+  .about{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+  }
+
+  .about-section {
+    float: right;
+    width: 50%; 
+  }
+
+  .contact-section {
+    padding-top: 90%;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .upload-section {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .social-media i {
+    padding-bottom: 0.1%;
+    padding-top: 1%;
+  }
+
+  iframe {
+    height: 500px;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+
+  .copyright p {
+    padding-top: 0.5%;
+  }
+
+
+
 }
 
 /*1201px and more — Extra large screens, TV.*/
 @media only screen and (min-width: 1201px) {
+  header img {
+    position: absolute;
+    top: 11px;
+    left: 20%;
+  }
+
   body {
     margin-top: 0%;
-    margin-left: 18%;
-    margin-right: 18%;
-  }
-
-  .header h1 {
-    font-size: 90px;
-  }
-
-  .header img {
-    height: 5cm;
-    width: 5cm;
-    left: 19%;
-  }
-
-  .navbar a {
-    font-size: 40px;
-    padding: 14px 30px;
-  }
-  
-  .dropdown .dropbtn {
-    font-size: 40px;  
-    padding: 1px 30px;
-  }
-
-  .dropdown-content {
-    min-width: 322px;
-  }
-
-  .body img {
-    max-width: 70%;
-    margin-left: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
   }
 
 }
