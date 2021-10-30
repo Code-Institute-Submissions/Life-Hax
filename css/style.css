@@ -450,9 +450,6 @@
   .copyright p {
     padding-top: 0.5%;
   }
-
-
-
 }
 
 /*1201px and more — Extra large screens, TV.*/
@@ -470,13 +467,74 @@
   }
 
   .contact-section {
-    padding-top: 85%;
+    padding-top: 120%;
   }
 
   iframe {
-    height: 600px;
+    height: 300px;
     padding-left: 25%;
     padding-right: 25%;
   }
+}
 
+  /*1300px and more — Extra large screens, TV.*/
+@media only screen and (min-width: 1300px) {
+  .contact-section {
+    padding-top: 110%;
+  }
+
+  iframe {
+    height: 300px;
+  }
+}
+
+  /*1500px and more — Extra large screens, TV.*/
+@media only screen and (min-width: 1500px) {
+  .contact-section {
+    padding-top: 90%;
+  }
+}
+
+  /*1600px and more — Extra large screens, TV.*/
+@media only screen and (min-width: 1600px) {
+  header img {
+    position: absolute;
+    left: 30%;
+  }
+
+  body {
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+  .contact-section {
+    padding-top: 85%;
+  }
+}
+
+   /*2200px and more — Extra large screens, TV.*/
+@media only screen and (min-width: 2200px) {
+  body {
+    margin-left: 26%;
+    margin-right: 26%;
+  }
+
+  main {
+    min-height: 70%;
+  }
+
+  .contact-section {
+    padding-top: 70%;
+  }
+
+  iframe {
+    height: 400px;
+  }
+}
+
+   /*2400px and more — Extra large screens, TV.*/
+@media only screen and (min-width: 2400px) {
+  main {
+    min-height: 77%;
+  }
 }
