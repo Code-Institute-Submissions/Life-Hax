@@ -15,5 +15,5 @@ Users will also be able contribute their own life hacks to the website by upload
   - The navigation bar has drop-down menu on the Life Hacks for simple navigation through the life hack categories.
   
 ![Nav Bar](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/Nav%20bar.png)
-![Nav Bar drop-down menu](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/Nav%20bar.png)
+![Nav Bar drop-down menu](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/Nav%20bar%20dropdown%20menu.png)
 
