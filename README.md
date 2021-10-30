@@ -14,6 +14,6 @@ Users will also be able contribute their own life hacks to the website by upload
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
   - The navigation bar also has drop-down menu on the Life Hacks section that allows for navigation through the different life hacks categories on the life hacks page.
   
-![Nav Bar](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/Nav%20bar.png)
-![Nav Bar drop-down menu](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/Nav%20bar%20dropdown%20menu.png)
+![Nav Bar](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
+![Nav Bar drop-down menu](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar-dropdown-menu.png)
 
