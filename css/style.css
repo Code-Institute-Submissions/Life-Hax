@@ -106,7 +106,7 @@
   main {
     padding: 15px;
     background-color:#005b4b;
-    min-height: 59.3%;
+    min-height: 70%;
     box-sizing: border-box;
   }
  
@@ -294,7 +294,7 @@
   }
 
   main {
-    min-height: 76.3%;
+    min-height: 75%;
   }
   
   h2 {
@@ -348,10 +348,6 @@
 
   .dropdown-content {
     min-width: 266.3px;
-  }
-
-  main {
-    min-height: 74.8%;
   }
 
   .circle-container{
