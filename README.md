@@ -25,3 +25,10 @@ Users will also be able contribute their own life hacks to the website by upload
  
 ![Welcome Section](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/welcome-section.PNG)
 
+- __About Section__
+
+  - The about section gives information on the things the group that made the site are trying to achieve.
+  - Users will respect be happy to support a site that was made to better other peoples' lives
+  - Shows an image of the group working together to give a feeling of community with users since they too have an affect on the website's content
+ 
+![About Section](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/about-section.PNG)
