@@ -21,7 +21,7 @@ Users will also be able contribute their own life hacks to the website by upload
 
 ![Header](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
 
-- __Navigation Bar__
+- __The Navigation Bar__
 
   - Featured below the Header on all the pages and is fully responsive.
   - Navigation bar includes links to Homepage, Upload area and Life hacks page.
