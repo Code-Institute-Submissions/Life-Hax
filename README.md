@@ -114,7 +114,7 @@ Users will also be able contribute their own life hacks to the website by upload
 
 ### Validator Testing
 - __HTML__
-  - No errors when the Homepage was passed through the [official W3C validator.](https://validator.w3.org/nu/?doc=https%3A%2F%2Fawoyalejohn.github.io%2FLife-Hax%2Fpages%2Flife-hax.html) official W3C validator. 
+  - No errors when the Homepage was passed through the [official W3C validator.](https://validator.w3.org/nu/?doc=https%3A%2F%2Fawoyalejohn.github.io%2FLife-Hax%2Fpages%2Flife-hax.html)
   - No errors when the Upload page was passed through the [official W3C validator.](https://validator.w3.org/nu/?doc=https%3A%2F%2Fawoyalejohn.github.io%2FLife-Hax%2Fpages%2Fupload.html)
   - No errors when the Life hacks page was passed through the [official W3C validator.]( https://validator.w3.org/nu/?doc=https%3A%2F%2Fawoyalejohn.github.io%2FLife-Hax%2Fpages%2Flife-hax.html)
 - __CSS__
