@@ -113,14 +113,14 @@ Users will also be able contribute their own life hacks to the website by upload
 -Some of the website links on github pages didn’t work at first because there were spaces and uppercase text in the link text. I fixed it by adding a hyphen and changing everything to lowercase.
 
 ### Validator Testing
--HTML
-  -No errors when the Homepage was passed through the official W3C validator. Link to test.
-  -No errors when the Upload page was passed through the official W3C validator. Link to test.
-  -No errors when the Life hacks page was passed through the official W3C validator. Link to test.
--CSS
-  -No errors when the stylesheet was passed through the official Jigsaw validator. Link to test.
--Accessibility
-  -I confirmed that the colours and fonts chosen are easy to read and accessible by running it through the lighthouse devtools.
+- __HTML__
+  - No errors when the Homepage was passed through the official W3C validator. Link to test.
+  - No errors when the Upload page was passed through the official W3C validator. Link to test.
+  - No errors when the Life hacks page was passed through the official W3C validator. Link to test.
+- __CSS__
+  - No errors when the stylesheet was passed through the official Jigsaw validator. Link to test.
+- __Accessibility__
+  - I confirmed that the colours and fonts chosen are easy to read and accessible by running it through the lighthouse devtools.
   
 ![Homepage accessibility test](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
 ![Upload page accessibility test](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
