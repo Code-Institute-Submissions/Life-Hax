@@ -11,13 +11,13 @@ Users will also be able contribute their own life hacks to the website by upload
 
 - __The Header__
 
-  -Featured on all the pages and is fully responsive.
-  -The header has a green background colour.
-  -It has a white smiley face logo on the far left section of the header that contrasts well with the green background.
-  -It has the website title text in the middle in bold italic white colour that contrasts well with the green background.
-  -Logo and website name text link back to the homepage when clicked.
-  -Font style used for the website title text is Roboto.
-  -The Header clearly shows the user the name of the website by using a larger font size than the other fonts on the webpage.
+  - Featured on all the pages and is fully responsive.
+  - The header has a green background colour.
+  - It has a white smiley face logo on the far left section of the header that contrasts well with the green background.
+  - It has the website title text in the middle in bold italic white colour that contrasts well with the green background.
+  - Logo and website name text link back to the homepage when clicked.
+  - Font style used for the website title text is Roboto.
+  - The Header clearly shows the user the name of the website by using a larger font size than the other fonts on the webpage.
 
 ![Header](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
 
