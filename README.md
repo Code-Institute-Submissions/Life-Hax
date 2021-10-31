@@ -109,8 +109,8 @@ Users will also be able contribute their own life hacks to the website by upload
 ### Bugs
 
 - __Solved bugs__
-- 
--Some of the website links on github pages didn’t work at first because there were spaces and uppercase text in the link text. I fixed it by adding a hyphen and changing everything to lowercase.
+
+  - Some of the website links on github pages didn’t work at first because there were spaces and uppercase text in the link text. I fixed it by adding a hyphen and changing everything to lowercase.
 
 ### Validator Testing
 - __HTML__
