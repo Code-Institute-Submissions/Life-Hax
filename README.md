@@ -146,16 +146,16 @@ No unfixed bugs
 - __The code used to add the circles around the welcome and about section images was taken from the [Love running tutorial project.](https://www.youtube.com/watch?v=LmlG1oqYcGU)__ 
 - __The code used to make the contact form was taken from a [W3schools tutorial.](https://www.w3schools.com/howto/howto_css_contact_form.asp)__
 - __The social media links was taken from the [Love running tutorial project](https://www.youtube.com/watch?v=x9Fhse0BrXw) and [Font Awesome.](https://fontawesome.com/)__
-- __The code used to make the upload page was taken from a [W3schools tutorial](https://www.w3schools.com/howto/howto_html_file_upload_button.asp)__ 
+- __The code used to make the upload page was taken from a [W3schools tutorial.](https://www.w3schools.com/howto/howto_html_file_upload_button.asp)__ 
 - __The code for the life hacks video clips was taken from the following 3 Youtube videos and embed to the website:__
   - [Ultimate Food Hacks Compilation](https://www.youtube.com/watch?v=VWUJQqljHzI&t)
   - [27 EASY LIFE HACKS FOR YOUR HOME](https://www.youtube.com/watch?v=9R-Ll6odFw8&t)
   - [Office Hacks](https://www.youtube.com/watch?v=VlBkKbK4rok)
 - __The code for the media queries was taken from a [W3schools tutorial](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-- __Some of the code that was used to keep the footer at the bottom of the page was taken from this forum post on [Stack overflow](https://stackoverflow.com/questions/18739937/how-to-keep-footer-at-bottom-of-screen)__ 
+- __Some of the code that was used to keep the footer at the bottom of the page was taken from this forum post on [Stack overflow.](https://stackoverflow.com/questions/18739937/how-to-keep-footer-at-bottom-of-screen)__ 
 
 ### Media
-- __The images below the welcome and about section was taken from [Pexels](https://www.pexels.com/)__
+- __The images below the welcome and about section was taken from [Pexels.](https://www.pexels.com/)__
 
 
 
