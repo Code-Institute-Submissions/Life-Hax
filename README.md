@@ -120,11 +120,12 @@ Users will also be able contribute their own life hacks to the website by upload
 - __CSS__
   - No errors when the stylesheet was passed through the [official Jigsaw validator.](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fawoyalejohn.github.io%2FLife-Hax%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - __Accessibility__
-  - I confirmed that the colours and fonts chosen are easy to read and accessible by running the Homepage, Upload page and Life Hacks page through the lighthouse devtools.
+  - I confirmed that the colours and fonts chosen are easy to read and accessible by running the Homepage, Upload page and Life Hacks page through the lighthouse devtools. The 8 shapes contrast grid was also used to test if the colour scheme that was accessible.
   
 ![Homepage accessibility test](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/lighthouse-score-homepage-mobile.PNG)
 ![Upload page accessibility test](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/lighthouse-score-upload-page-mobile.PNG)
 ![Life Hacks accessibility test](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/lighthouse-score-lifehax-page-mobile.PNG)
+![8 Shapes colour contrast scheme](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/colour-scheme.PNG)
 
 ### Unfixed bugs
 No unfixed bugs
