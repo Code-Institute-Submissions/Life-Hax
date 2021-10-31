@@ -11,7 +11,7 @@ Users will also be able contribute their own life hacks to the website by upload
 
 - __The Header__
 
--Featured on all the pages and is fully responsive.
+ -Featured on all the pages and is fully responsive.
 -The header has a green background colour.
 -It has a white smiley face logo on the far left section of the header that contrasts well with the green background.
 -It has the website title text in the middle in bold italic white colour that contrasts well with the green background.
