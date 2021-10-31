@@ -114,11 +114,11 @@ Users will also be able contribute their own life hacks to the website by upload
 
 ### Validator Testing
 - __HTML__
-  - No errors when the Homepage was passed through the official W3C validator. Link to test.
-  - No errors when the Upload page was passed through the official W3C validator. Link to test.
-  - No errors when the Life hacks page was passed through the official W3C validator. Link to test.
+  - No errors when the Homepage was passed through the [official W3C validator.](https://validator.w3.org/nu/?doc=https%3A%2F%2Fawoyalejohn.github.io%2FLife-Hax%2Fpages%2Flife-hax.html) official W3C validator. 
+  - No errors when the Upload page was passed through the [official W3C validator.](https://validator.w3.org/nu/?doc=https%3A%2F%2Fawoyalejohn.github.io%2FLife-Hax%2Fpages%2Fupload.html)
+  - No errors when the Life hacks page was passed through the [official W3C validator.]( https://validator.w3.org/nu/?doc=https%3A%2F%2Fawoyalejohn.github.io%2FLife-Hax%2Fpages%2Flife-hax.html)
 - __CSS__
-  - No errors when the stylesheet was passed through the official Jigsaw validator. Link to test.
+  - No errors when the stylesheet was passed through the [official Jigsaw validator.](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fawoyalejohn.github.io%2FLife-Hax%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - __Accessibility__
   - I confirmed that the colours and fonts chosen are easy to read and accessible by running it through the lighthouse devtools.
   
