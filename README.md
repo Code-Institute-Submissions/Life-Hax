@@ -99,12 +99,12 @@ Users will also be able contribute their own life hacks to the website by upload
 
 ## Testing
 
- I tested that the website worked in a variety of browsers: Chrome, Firefox, and Opera.
--I confirmed that this project is responsive, looks good and functions on all standard screen sizes using devtools device toolbar.
--I confirm that the Navigation bar is working correctly with no broken links.
--I confirm that the Header, Navigation, Welcome section, About section, Contact section, Footer section, Upload area page, and Life Hacks page are all readable and understandable.
--I have confirmed that the forms on my Homepage and Upload area pages are working: they require entries in every field, will only accept an email in the email field, and the submit button works.  And files can be selected for upload on the Upload page.
--I have confirmed that the video links to youtube are working correctly: it can pause, play, and mute.
+ - __I tested that the website worked in a variety of browsers: Chrome, Firefox, and Opera.__
+- __I confirmed that this project is responsive, looks good and functions on all standard screen sizes using devtools device toolbar.__
+- __I confirm that the Navigation bar is working correctly with no broken links.__
+- __I confirm that the Header, Navigation, Welcome section, About section, Contact section, Footer section, Upload area page, and Life Hacks page are all readable and understandable.__
+- __I have confirmed that the forms on my Homepage and Upload area pages are working: they require entries in every field, will only accept an email in the email field, and the submit button works.  And files can be selected for upload on the Upload page.__
+- __I have confirmed that the video links to youtube are working correctly: it can pause, play, and mute.__
 
 ### Bugs
 
