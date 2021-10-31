@@ -127,13 +127,13 @@ Users will also be able contribute their own life hacks to the website by upload
 ![Life Hacks accessibility test](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
 
 ### Unfixed bugs
--No unfixed bugs
+No unfixed bugs
 
 ## Deployment
--The website was deployed to GitHub pages. The steps take to deploy the website:
-  -In the GitHub repository, go to the settings tab
-  -From the source drop-down menu, select master branch
-  -Once the master branch has been selected, the page will provide a link to the completed website 
+- __The website was deployed to GitHub pages. The steps take to deploy the website:__
+  - In the GitHub repository, go to the settings tab
+  - From the source drop-down menu, select master branch
+  - Once the master branch has been selected, the page will provide a link to the completed website 
 The live link to the website: https://awoyalejohn.github.io/Life-Hax/
 
 
