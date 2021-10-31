@@ -151,7 +151,7 @@ No unfixed bugs
   - [Ultimate Food Hacks Compilation](https://www.youtube.com/watch?v=VWUJQqljHzI&t)
   - [27 EASY LIFE HACKS FOR YOUR HOME](https://www.youtube.com/watch?v=9R-Ll6odFw8&t)
   - [Office Hacks](https://www.youtube.com/watch?v=VlBkKbK4rok)
-- __The code for the media queries was taken from a [W3schools tutorial](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+- __The code for the media queries was taken from a [W3schools tutorial.](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)__
 - __Some of the code that was used to keep the footer at the bottom of the page was taken from this forum post on [Stack overflow.](https://stackoverflow.com/questions/18739937/how-to-keep-footer-at-bottom-of-screen)__ 
 
 ### Media
