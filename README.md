@@ -151,8 +151,8 @@ No unfixed bugs
   - https://www.youtube.com/watch?v=VWUJQqljHzI&t 
   - https://www.youtube.com/watch?v=9R-Ll6odFw8&t 
   - https://www.youtube.com/watch?v=VlBkKbK4rok 
-- __The code for the media queries was taken from a W3schools tutorial: https://www.w3schools.com/css/css_rwd_mediaqueries.asp 
--Some of the code that was used to keep my footer at the bottom of the page taken from this forum post on Stack overflow: https://stackoverflow.com/questions/18739937/how-to-keep-footer-at-bottom-of-screen__ 
+- __The code for the media queries was taken from a W3schools tutorial: https://www.w3schools.com/css/css_rwd_mediaqueries.asp__ 
+- __Some of the code that was used to keep my footer at the bottom of the page taken from this forum post on Stack overflow: https://stackoverflow.com/questions/18739937/how-to-keep-footer-at-bottom-of-screen__ 
 
 ### Media
 - __The images below the welcome and about section was taken from Pexels:https://www.pexels.com/__
