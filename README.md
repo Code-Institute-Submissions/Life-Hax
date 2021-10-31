@@ -144,7 +144,7 @@ No unfixed bugs
 
 - __The code used to make the navigation bar with a drop-down menu was taken from a W3schools tutorial: https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp__
 - __The code used to add the circles around the welcome and about section images was taken from the Love running tutorial project: https://www.youtube.com/watch?v=LmlG1oqYcGU__ 
-- __The code used to make the contact form was taken from a [W3schools tutorial](https://www.w3schools.com/howto/howto_css_contact_form.asp) W3schools tutorial: https://www.w3schools.com/howto/howto_css_contact_form.asp__
+- __The code used to make the contact form was taken from a [W3schools tutorial](https://www.w3schools.com/howto/howto_css_contact_form.asp)__
 - __The social media links was taken from the love running tutorial project and Font awesome: https://www.youtube.com/watch?v=x9Fhse0BrXw & https://fontawesome.com/__
 - __The code used to make the upload page was taken from a W3schools tutorial: https://www.w3schools.com/howto/howto_html_file_upload_button.asp__ 
 - __The code for the life hacks videos was taken from the following 3 Youtube videos and embed to the website:__
