@@ -19,7 +19,7 @@ Users will also be able contribute their own life hacks to the website by upload
   - Font style used for the website title text is Roboto.
   - The Header clearly shows the user the name of the website by using a larger font size than the other fonts on the webpage.
 
-![Header](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
+![Header](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/Header-section.PNG)
 
 - __The Navigation Bar__
 
@@ -63,7 +63,7 @@ Users will also be able contribute their own life hacks to the website by upload
   - The area that the user writes text into has a white background which contrasts well with the rest of the website's green background.
   - The contact section is good for the user, because it gives them a way to give their own opinion on things that can be done to improve the website.
 
-![Contact Section](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
+![Contact Section](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/contact-section.PNG)
 
 - __The Footer Section__
 
@@ -73,7 +73,7 @@ Users will also be able contribute their own life hacks to the website by upload
   - The footer uses a white font colour with a contrasting black background to help separate from the other sections on the site.
   - The footer is beneficial to the user as it provides a reason for them to contact via social media.
 
-![Footer Section](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
+![Footer Section](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/footer-section.PNG)
 
 - __The Upload Area page__
 
@@ -83,7 +83,7 @@ Users will also be able contribute their own life hacks to the website by upload
   - The upload area form has placeholder text so the user knows what goes inside it.
   - The area that the user writes text into has a white background which contrasts well with the rest of the website's green background.
 
-![Upload Area page](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
+![Upload Area page](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/upload-area-page.PNG)
 
 - __The Life Hacks page__
 
@@ -95,7 +95,7 @@ Users will also be able contribute their own life hacks to the website by upload
   - Font colour is white and it contrasts with the green background. And continues the white and green colour scheme for the site.
   - This page is important to the user as it is where they will navigate to find the interesting hacks that they are looking for.
 
-![Life Hacks page](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
+![Life Hacks page](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/lifehacks-page.png)
 
 ## Testing
 
@@ -120,11 +120,11 @@ Users will also be able contribute their own life hacks to the website by upload
 - __CSS__
   - No errors when the stylesheet was passed through the [official Jigsaw validator.](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fawoyalejohn.github.io%2FLife-Hax%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - __Accessibility__
-  - I confirmed that the colours and fonts chosen are easy to read and accessible by running it through the lighthouse devtools.
+  - I confirmed that the colours and fonts chosen are easy to read and accessible by running the Homepage, Upload page and Life Hacks page through the lighthouse devtools.
   
-![Homepage accessibility test](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
-![Upload page accessibility test](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
-![Life Hacks accessibility test](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/nav-bar.png)
+![Homepage accessibility test](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/lighthouse-score-homepage-mobile.PNG)
+![Upload page accessibility test](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/lighthouse-score-upload-page-mobile.PNG)
+![Life Hacks accessibility test](https://github.com/Awoyalejohn/Life-Hax/blob/main/assets/images/lighthouse-score-lifehax-page-mobile.PNG)
 
 ### Unfixed bugs
 No unfixed bugs
@@ -155,7 +155,7 @@ No unfixed bugs
 - __Some of the code that was used to keep the footer at the bottom of the page was taken from this forum post on [Stack overflow.](https://stackoverflow.com/questions/18739937/how-to-keep-footer-at-bottom-of-screen)__ 
 
 ### Media
-- __The images below the welcome and about section was taken from [Pexels.](https://www.pexels.com/)__
+- __The images below the welcome and about section were taken from [Pexels.](https://www.pexels.com/)__
 
 
 
