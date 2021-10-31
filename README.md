@@ -142,7 +142,7 @@ No unfixed bugs
 
 ### Content
 
-- __The code used to make the navigation bar with a drop-down menu was taken from a [W3schools tutoria.](https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp)__
+- __The code used to make the navigation bar with a drop-down menu was taken from a [W3schools tutorial.](https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp)__
 - __The code used to add the circles around the welcome and about section images was taken from the [Love running tutorial project.](https://www.youtube.com/watch?v=LmlG1oqYcGU)__ 
 - __The code used to make the contact form was taken from a [W3schools tutorial.](https://www.w3schools.com/howto/howto_css_contact_form.asp)__
 - __The social media links was taken from the [Love running tutorial project](https://www.youtube.com/watch?v=x9Fhse0BrXw) and [Font Awesome.](https://fontawesome.com/)__
