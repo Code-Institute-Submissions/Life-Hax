@@ -134,7 +134,8 @@ No unfixed bugs
   - In the GitHub repository, go to the settings tab
   - From the source drop-down menu, select master branch
   - Once the master branch has been selected, the page will provide a link to the completed website 
-The live link to the website: https://awoyalejohn.github.io/Life-Hax/
+  
+  The live link to the website: https://awoyalejohn.github.io/Life-Hax/
 
 
 ## Credits
