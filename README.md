@@ -142,20 +142,20 @@ No unfixed bugs
 
 ### Content
 
--The code used to make the navigation bar with a drop-down menu was taken from a W3schools tutorial: https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp
--The code used to add the circles around the welcome and about section images was taken from the Love running tutorial project: https://www.youtube.com/watch?v=LmlG1oqYcGU 
--The code used to make the contact form was taken from a W3schools tutorial: https://www.w3schools.com/howto/howto_css_contact_form.asp
--The social media links was taken from the love running tutorial project and Font awesome: https://www.youtube.com/watch?v=x9Fhse0BrXw & https://fontawesome.com/ 
--The code used to make the upload page was taken from a W3schools tutorial: https://www.w3schools.com/howto/howto_html_file_upload_button.asp 
--The code for the life hacks videos was taken from the following 3 Youtube videos and embed to the website:
-  -https://www.youtube.com/watch?v=VWUJQqljHzI&t 
-  -https://www.youtube.com/watch?v=9R-Ll6odFw8&t 
-  -https://www.youtube.com/watch?v=VlBkKbK4rok 
--The code for the media queries was taken from a W3schools tutorial: https://www.w3schools.com/css/css_rwd_mediaqueries.asp 
--Some of the code that was used to keep my footer at the bottom of the page taken from this forum post on Stack overflow: https://stackoverflow.com/questions/18739937/how-to-keep-footer-at-bottom-of-screen 
+- __The code used to make the navigation bar with a drop-down menu was taken from a W3schools tutorial: https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp__
+- __The code used to add the circles around the welcome and about section images was taken from the Love running tutorial project: https://www.youtube.com/watch?v=LmlG1oqYcGU__ 
+- __The code used to make the contact form was taken from a W3schools tutorial: https://www.w3schools.com/howto/howto_css_contact_form.asp__
+- __The social media links was taken from the love running tutorial project and Font awesome: https://www.youtube.com/watch?v=x9Fhse0BrXw & https://fontawesome.com/__
+- __The code used to make the upload page was taken from a W3schools tutorial: https://www.w3schools.com/howto/howto_html_file_upload_button.asp__ 
+- __The code for the life hacks videos was taken from the following 3 Youtube videos and embed to the website:__
+  - https://www.youtube.com/watch?v=VWUJQqljHzI&t 
+  - https://www.youtube.com/watch?v=9R-Ll6odFw8&t 
+  - https://www.youtube.com/watch?v=VlBkKbK4rok 
+- __The code for the media queries was taken from a W3schools tutorial: https://www.w3schools.com/css/css_rwd_mediaqueries.asp 
+-Some of the code that was used to keep my footer at the bottom of the page taken from this forum post on Stack overflow: https://stackoverflow.com/questions/18739937/how-to-keep-footer-at-bottom-of-screen__ 
 
 ### Media
--The images below the welcome and about section was taken from Pexels:https://www.pexels.com/ 
+- __The images below the welcome and about section was taken from Pexels:https://www.pexels.com/__
 
 
 
