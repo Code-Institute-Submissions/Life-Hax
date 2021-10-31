@@ -155,7 +155,7 @@ No unfixed bugs
 - __Some of the code that was used to keep the footer at the bottom of the page was taken from this forum post on [Stack overflow.](https://stackoverflow.com/questions/18739937/how-to-keep-footer-at-bottom-of-screen)__ 
 
 ### Media
-- __The images below the welcome and about section was taken from [Pexels.](https://www.pexels.com/)__
+- __The images below the welcome and about section were taken from [Pexels.](https://www.pexels.com/)__
 
 
 
